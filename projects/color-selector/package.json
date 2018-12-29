@@ -1,6 +1,17 @@
 {
   "name": "color-selector",
   "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "sibiraj rajendran",
+    "email": "mail@sibiraj.co.in"
+  },
+  "keywords": [
+    "color picker",
+    "color selector",
+    "angular",
+    "typescript"
+  ],
   "peerDependencies": {
     "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
     "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
